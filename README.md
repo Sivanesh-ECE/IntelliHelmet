@@ -260,13 +260,6 @@ The project has been validated for:
 
 Contributions, suggestions, and feature requests are welcome. Feel free to fork this repository, submit issues, or create pull requests to improve SmartShield.
 
----
-
-# 📄 License
-
-This project is released under the MIT License. See the `LICENSE` file for more information.
-
----
 
 # 👤 Author
 
@@ -277,3 +270,4 @@ Electronics and Communication Engineering Student
 Passionate about Embedded Systems, IoT, AI, and building intelligent technologies that solve real-world problems.
 
 *"Engineering innovative solutions to make roads safer through Embedded Systems and IoT."*
+DM FOR THE MOBILE APP FIRMWORK INFORMATION THROUGH GMAIL : sivaneshgnanasekar183@gmail.com
