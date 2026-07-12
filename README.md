@@ -1,4 +1,4 @@
-# 🛡️ SmartShield
+# 🛡️ IntelliHelmet
 
 ### ESP32-Based Intelligent Smart Helmet for Real-Time Accident Detection & Emergency Alert System
 
